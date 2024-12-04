@@ -13,17 +13,19 @@ Ready to launch your own library? Here's how you can set it up and start running
 
 1. Clone the Repository
 First, clone the project to your local machine:
+
 bash
 Copy code
 git clone https://github.com/Ayushgreat/Online-Library-System.git
 
-2. Install Dependencies
+3. Install Dependencies
 Once you've got the project, navigate into the project folder and install the necessary packages:
 
 bash
-Copy code
+
 cd Online-Library-System
 npm install
+
 This will install all the dependencies required to run the app.
 
 3. Start the Application
@@ -32,6 +34,7 @@ Now, you’re all set to fire up the app! 🚀
 bash
 Copy code
 npm run dev
+
 This will launch the app in your default browser, typically at http://localhost:5173.
 
 # 📝 Usage
